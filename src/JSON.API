@@ -1,0 +1,346 @@
+{
+  "users": [
+    {
+      "id": "Shyam",
+      "password": "12345"
+    },
+    {
+      "id": "Samara",
+      "password": "123"
+    },
+    {
+      "id": "Demo",
+      "password": "12345"
+    }
+  ],
+  "products": [
+    {
+      "title": "10 PRO",
+      "aprice": "200",
+      "price": "5000",
+      "id": "1",
+      "catagory": "Mobile",
+      "image": "https://rukminim1.flixcart.com/image/312/312/ky90scw0/mobile/s/5/d/-original-imagagnfgh6ed7tp.jpeg?q=70"
+    },
+    {
+      "title": "11 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "2",
+      "catagory": "Mobile",
+      "image": "https://media.mobex.in/media/catalog/product/o/n/oneplus_nord_ce_2_front.jpg?auto=webp&format=pjpg&width=960&height=1200&fit=cover"
+    },
+    {
+      "title": "12 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "3",
+      "catagory": "Mobile",
+      "image": "https://rukminim1.flixcart.com/image/312/312/l1dwknk0/mobile/f/t/x/-original-imagcyj4unsxhadw.jpeg?q=70"
+    },
+    {
+      "title": "13 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "4",
+      "catagory": "Mobile",
+      "image": "https://rukminim1.flixcart.com/image/312/312/ky90scw0/mobile/m/r/u/-original-imagagnffruu7ptd.jpeg?q=70"
+    },
+    {
+      "title": "14 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "5",
+      "catagory": "Mobile",
+      "image": "https://rukminim1.flixcart.com/image/300/300/l3t2fm80/mobile/v/0/b/-original-imageu8ctfzzstqp.jpeg?q=90"
+    },
+    {
+      "title": "15 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "6",
+      "catagory": "Mobile",
+      "image": "https://rukminim1.flixcart.com/image/300/300/l0fm07k0/mobile/y/g/i/-original-imagc7ryyhrrcgxh.jpeg?q=90"
+    },
+    {
+      "title": "16 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "7",
+      "catagory": "Mobile",
+      "image": "https://rukminim1.flixcart.com/image/312/312/ky90scw0/mobile/m/r/u/-original-imagagnffruu7ptd.jpeg?q=70"
+    },
+    {
+      "title": "17 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "8",
+      "catagory": "Mobile",
+      "image": "https://rukminim1.flixcart.com/image/300/300/l3t2fm80/mobile/v/0/b/-original-imageu8ctfzzstqp.jpeg?q=90"
+    },
+    {
+      "title": "18 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "9",
+      "catagory": "Mobile",
+      "image": "https://rukminim1.flixcart.com/image/312/312/ky90scw0/mobile/s/5/d/-original-imagagnfgh6ed7tp.jpeg?q=70"
+    },
+    {
+      "title": "19 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "10",
+      "catagory": "Mobile",
+      "image": "https://media.mobex.in/media/catalog/product/o/n/oneplus_nord_ce_2_front.jpg?auto=webp&format=pjpg&width=960&height=1200&fit=cover"
+    },
+    {
+      "title": "20 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "11",
+      "catagory": "Mobile",
+      "image": "https://rukminim1.flixcart.com/image/312/312/ky90scw0/mobile/m/r/u/-original-imagagnffruu7ptd.jpeg?q=70"
+    },
+    {
+      "title": "14 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "12",
+      "catagory": "Mobile",
+      "image": "https://rukminim1.flixcart.com/image/300/300/l3t2fm80/mobile/v/0/b/-original-imageu8ctfzzstqp.jpeg?q=90"
+    },
+    {
+      "title": "10 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "13",
+      "catagory": "Mobile",
+      "image": "https://rukminim1.flixcart.com/image/312/312/ky90scw0/mobile/s/5/d/-original-imagagnfgh6ed7tp.jpeg?q=70"
+    },
+    {
+      "title": "11 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "14",
+      "catagory": "Mobile",
+      "image": "https://media.mobex.in/media/catalog/product/o/n/oneplus_nord_ce_2_front.jpg?auto=webp&format=pjpg&width=960&height=1200&fit=cover"
+    },
+    {
+      "title": "12 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "15",
+      "catagory": "Mobile",
+      "image": "https://rukminim1.flixcart.com/image/312/312/l1dwknk0/mobile/f/t/x/-original-imagcyj4unsxhadw.jpeg?q=70"
+    },
+    {
+      "title": "13 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "16",
+      "catagory": "Mobile",
+      "image": "https://rukminim1.flixcart.com/image/312/312/ky90scw0/mobile/m/r/u/-original-imagagnffruu7ptd.jpeg?q=70"
+    },
+    {
+      "title": "14 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "17",
+      "catagory": "Mobile",
+      "image": "https://rukminim1.flixcart.com/image/300/300/l3t2fm80/mobile/v/0/b/-original-imageu8ctfzzstqp.jpeg?q=90"
+    },
+    {
+      "title": "15 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "18",
+      "catagory": "Mobile",
+      "image": "https://rukminim1.flixcart.com/image/300/300/l0fm07k0/mobile/y/g/i/-original-imagc7ryyhrrcgxh.jpeg?q=90"
+    },
+    {
+      "title": "13 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "19",
+      "catagory": "Mobile",
+      "image": "https://rukminim1.flixcart.com/image/312/312/ky90scw0/mobile/m/r/u/-original-imagagnffruu7ptd.jpeg?q=70"
+    },
+    {
+      "title": "14 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "20",
+      "catagory": "Mobile",
+      "image": "https://rukminim1.flixcart.com/image/300/300/l3t2fm80/mobile/v/0/b/-original-imageu8ctfzzstqp.jpeg?q=90"
+    },
+    {
+      "title": "Laptop 10",
+      "aprice": "30000",
+      "price": "20000",
+      "id": "1",
+      "catagory": "Laptop",
+      "image": "https://rukminim1.flixcart.com/image/832/832/k9d3p8w0/computer/c/a/h/asus-na-laptop-original-imafr6cbfurgkspg.jpeg?q=70"
+    },
+    {
+      "title": "Lab S4",
+      "aprice": "40000",
+      "price": "30000",
+      "id": "2",
+      "catagory": "Laptop",
+      "image": "https://rukminim1.flixcart.com/image/312/312/l1v1uvk0/tablet/9/c/s/6650034-realme-original-imagdc5ac3y7xgxh.jpeg?q=70"
+    },
+    {
+      "title": "Cam H3",
+      "aprice": "25000",
+      "price": "15000",
+      "id": "3",
+      "catagory": "Laptop",
+      "image": "https://rukminim1.flixcart.com/image/312/312/kw9krrk0/dslr-camera/q/l/w/-original-imag8z5wwaqtq9bz.jpeg?q=70"
+    },
+    {
+      "title": "Laptop 10",
+      "aprice": "30000",
+      "price": "20000",
+      "id": "4",
+      "catagory": "Laptop",
+      "image": "https://rukminim1.flixcart.com/image/832/832/k9d3p8w0/computer/c/a/h/asus-na-laptop-original-imafr6cbfurgkspg.jpeg?q=70"
+    },
+    {
+      "title": "Lab S4",
+      "aprice": "40000",
+      "price": "30000",
+      "id": "5",
+      "catagory": "Laptop",
+      "image": "https://rukminim1.flixcart.com/image/312/312/l1v1uvk0/tablet/9/c/s/6650034-realme-original-imagdc5ac3y7xgxh.jpeg?q=70"
+    },
+    {
+      "title": "10 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "6",
+      "catagory": "Laptop",
+      "image": "https://rukminim1.flixcart.com/image/312/312/ky90scw0/mobile/s/5/d/-original-imagagnfgh6ed7tp.jpeg?q=70"
+    },
+    {
+      "title": "14 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "7",
+      "catagory": "Laptop",
+      "image": "https://rukminim1.flixcart.com/image/300/300/l3t2fm80/mobile/v/0/b/-original-imageu8ctfzzstqp.jpeg?q=90"
+    },
+    {
+      "title": "10 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "8",
+      "catagory": "Laptop",
+      "image": "https://rukminim1.flixcart.com/image/312/312/ky90scw0/mobile/s/5/d/-original-imagagnfgh6ed7tp.jpeg?q=70"
+    },
+    {
+      "title": "11 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "9",
+      "catagory": "Laptop",
+      "image": "https://media.mobex.in/media/catalog/product/o/n/oneplus_nord_ce_2_front.jpg?auto=webp&format=pjpg&width=960&height=1200&fit=cover"
+    },
+    {
+      "title": "11 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "10",
+      "catagory": "Laptop",
+      "image": "https://media.mobex.in/media/catalog/product/o/n/oneplus_nord_ce_2_front.jpg?auto=webp&format=pjpg&width=960&height=1200&fit=cover"
+    },
+    {
+      "title": "Laptop 10",
+      "aprice": "30000",
+      "price": "20000",
+      "id": "11",
+      "catagory": "Laptop",
+      "image": "https://rukminim1.flixcart.com/image/832/832/k9d3p8w0/computer/c/a/h/asus-na-laptop-original-imafr6cbfurgkspg.jpeg?q=70"
+    },
+    {
+      "title": "Lab S4",
+      "aprice": "40000",
+      "price": "30000",
+      "id": "12",
+      "catagory": "Laptop",
+      "image": "https://rukminim1.flixcart.com/image/312/312/l1v1uvk0/tablet/9/c/s/6650034-realme-original-imagdc5ac3y7xgxh.jpeg?q=70"
+    },
+    {
+      "title": "Cam H3",
+      "aprice": "25000",
+      "price": "15000",
+      "id": "13",
+      "catagory": "Laptop",
+      "image": "https://rukminim1.flixcart.com/image/312/312/kw9krrk0/dslr-camera/q/l/w/-original-imag8z5wwaqtq9bz.jpeg?q=70"
+    },
+    {
+      "title": "Laptop 10",
+      "aprice": "30000",
+      "price": "20000",
+      "id": "14",
+      "catagory": "Laptop",
+      "image": "https://rukminim1.flixcart.com/image/832/832/k9d3p8w0/computer/c/a/h/asus-na-laptop-original-imafr6cbfurgkspg.jpeg?q=70"
+    },
+    {
+      "title": "Lab S4",
+      "aprice": "40000",
+      "price": "30000",
+      "id": "15",
+      "catagory": "Laptop",
+      "image": "https://rukminim1.flixcart.com/image/312/312/l1v1uvk0/tablet/9/c/s/6650034-realme-original-imagdc5ac3y7xgxh.jpeg?q=70"
+    },
+    {
+      "title": "10 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "16",
+      "catagory": "Laptop",
+      "image": "https://rukminim1.flixcart.com/image/312/312/ky90scw0/mobile/s/5/d/-original-imagagnfgh6ed7tp.jpeg?q=70"
+    },
+    {
+      "title": "14 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "17",
+      "catagory": "Laptop",
+      "image": "https://rukminim1.flixcart.com/image/300/300/l3t2fm80/mobile/v/0/b/-original-imageu8ctfzzstqp.jpeg?q=90"
+    },
+    {
+      "title": "10 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "18",
+      "catagory": "Laptop",
+      "image": "https://rukminim1.flixcart.com/image/312/312/ky90scw0/mobile/s/5/d/-original-imagagnfgh6ed7tp.jpeg?q=70"
+    },
+    {
+      "title": "11 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "19",
+      "catagory": "Laptop",
+      "image": "https://media.mobex.in/media/catalog/product/o/n/oneplus_nord_ce_2_front.jpg?auto=webp&format=pjpg&width=960&height=1200&fit=cover"
+    },
+    {
+      "title": "11 PRO",
+      "aprice": "20000",
+      "price": "10000",
+      "id": "20",
+      "catagory": "Laptop",
+      "image": "https://media.mobex.in/media/catalog/product/o/n/oneplus_nord_ce_2_front.jpg?auto=webp&format=pjpg&width=960&height=1200&fit=cover"
+    },
+    {
+      "catagory": "India",
+      "id": "K3hanSN"
+    },
+    {
+      "catagory": "mu",
+      "id": "0mUq11x"
+    }
+  ]
+}
